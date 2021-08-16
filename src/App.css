@@ -1,0 +1,40 @@
+h1{
+  text-align: center;
+}
+.table-world{
+  font-size: 18px;
+}
+.table-world h1{
+  font-weight: 700;
+  color: rgb(255, 5, 5);
+}
+.table-detail{
+  font-size: 18px;
+  font-weight: 600;
+}
+.table-detail span{
+  color: red;
+}
+
+.App{
+ 
+  background-color:rgba(238, 255, 1, 0.979) ;
+  /* background-image: url(https://images.hcmcpv.org.vn/res/news/2021/05/04-05-2021-hi-hoa-chung-tay-phong-chong-dich-covid19-DAF02042-details.jpg?vs=04052021074509); */
+  transition: all 6s ease;
+  background-size: cover;
+  /* height: 100%;  */
+  /* Center and scale the image nicely */
+  /* background-position: center; */
+  background-repeat: no-repeat;
+}
+.search{
+  text-align: center;
+}
+
+.search input{
+  font-size: 20px;
+  border-radius: 5px;
+  outline: none;
+  background-color:transparent;
+  
+}
